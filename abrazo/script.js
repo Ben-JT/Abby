@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Soy la recta secante que te quiere cruzar vv";
+  question.innerHTML = "Yo tu recta secante vv xd";
   gif.src = "img/isma.jpg";
   // Cambiar el tamaño con JavaScript
   gif.style.width = "400px";

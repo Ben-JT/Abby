@@ -11,7 +11,12 @@ body {
     min-height: 100vh;
     background: #DCD0FF;
 }
-
+.gif {
+    border-radius: 15px;
+    border: 4px solid #aa2929; /* Borde exterior claro */
+    outline: 1px solid #973d3d; /* Borde fino extra */
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
 
 
 h2 {
